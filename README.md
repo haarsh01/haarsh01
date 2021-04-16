@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my Blog Website.
-- 🌱 I’m currently learning Python and IOT.
+- 🌱 I’m currently learning Python Language and IOT.
 - 👯 I’m looking to collaborate on my research paper.
 - 🤔 I’m looking for help with my Research Paper on Cyber Security .
 - 💬 Ask me about Web - Developement.
