@@ -8,7 +8,7 @@
 - 💬 Ask me about Web - Developement.
 - 📫 How to reach me: LinkedIn : https://www.linkedin.com/in/haarsh01/ ||  Email : harshkaushik717@gmail.com 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 6 hours reading books everyday. 
+- ⚡ Fun fact: I am a Bibliophile . 
 - ## ⚡ Connect with me
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/haarsh01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
