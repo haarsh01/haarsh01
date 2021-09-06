@@ -30,7 +30,9 @@
   <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-64/python-3521655-2945099.png"> &nbsp;
   <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png"> &nbsp;
   <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png"> &nbsp;
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=haarsh01&show_icons=true&theme=radical&count_private=true">
+</p>
 - ## ⚡ Connect with me
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/haarsh01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
