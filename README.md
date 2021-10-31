@@ -1,14 +1,16 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Harsh Kaushik 🧑🏻‍💻
 <h3 align="center"><img src ="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" /></h3>
+## things i do
+* I am Machine Leraning Researcher , Web Developer and IoT Developer.
+* Technologies : MAchine Learning, Data Science, Computer Vision, Web Development and Internet of Things. 
+* Programming Languages : Python, C++ and JavaScript
+* Current Research : Generalizing Anxiety through Machine Learning models & DRL for neurofeedback for anxiety reduction.
+* Writing a weekly newsletter called [ Meraki's Newsletter ](https://merakilabs.substack.com/)
+* Write blogs on [Medium] (https://haarsh01.medium.com/)reated to Machine Learning and Artificial Intelligence .
+* Part time User Interface Designer.
+* Reach Me : See social links below or drop email at harshkaushik717@gmail.com
 
-- 🔭 I’m currently working on my Blog Website.
-- 🌱 I’m currently learning Python Language and IOT.
-- 👯 I’m looking to collaborate on my research paper.
-- 🤔 I’m looking for help with my Research Paper on Cyber Security .
-- 💬 Ask me about Web - Developement.
-- 📫 How to reach me: LinkedIn : https://www.linkedin.com/in/haarsh01/ ||  Email : harshkaushik717@gmail.com 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I am a Bibliophile .
+
 
  ### Development Skills
   <span><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></span> &nbsp;
