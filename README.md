@@ -5,8 +5,8 @@
 <p>* Technologies : MAchine Learning, Data Science, Computer Vision, Web Development and Internet of Things. </p>
 <p>* Programming Languages : Python, C++ and JavaScript. </p>
 <p>* Current Research : Generalizing Anxiety through Machine Learning models & DRL for neurofeedback for anxiety reduction. </p>
-<p>* Writing a weekly newsletter called [ Meraki's Newsletter ](https://merakilabs.substack.com/) . </p>
-<p>* Write blogs on [Medium] (https://haarsh01.medium.com/)reated to Machine Learning and Artificial Intelligence. </p>
+<p>* Writing a weekly newsletter called Meraki's Newsletter https://merakilabs.substack.com/ . </p>
+<p>* Write blogs on Medium https://haarsh01.medium.com/ related to Machine Learning and Artificial Intelligence. </p>
 <p>* Part time User Interface Designer. </p>
 <p>* Reach Me : See social links below or drop email at harshkaushik717@gmail.com . </p>
 
