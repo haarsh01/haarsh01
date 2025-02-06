@@ -1,7 +1,7 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Harsh Kaushik 🧑🏻‍💻
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Harsh 🧑🏻‍💻
 <h3 align="center"><img src ="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" /></h3>
 <h2> 📍 things i do .. </h3>
-<p>* I am Machine Leraning Researcher , Web Developer and IoT Developer.</p>
+<p>* I am a Network Security Researcher at Dalhouise University, Full Stack Web Developer and IoT Developer.</p>
 <p>* Technologies : MAchine Learning, Data Science, Computer Vision, Web Development and Internet of Things. </p>
 <p>* Programming Languages : Python, C++ and JavaScript. </p>
 <p>* Current Research : Generalizing Anxiety through Machine Learning models & DRL for neurofeedback for anxiety reduction. </p>
