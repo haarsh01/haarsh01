@@ -26,16 +26,7 @@ I enjoy combining **research, engineering, and product thinking** to build pract
 ### 🔬 AI vs Human Detection Platform
 A research-driven system to detect whether **text or images are AI-generated or human-created**.
 
-Key components include:
 
-- Synthetic dataset generation pipelines
-- Multi-model evaluation framework
-- Text embeddings + ML classifiers
-- Image-based detection models
-- Statistical analysis of generative model behavior
-- Product-ready inference pipeline
-
-The goal is to create a **transparent AI detection platform that explains *why* a piece of content is flagged**.
 
 ---
 
