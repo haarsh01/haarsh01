@@ -1,44 +1,131 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Harsh 🧑🏻‍💻
-<h3 align="center"><img src ="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" /></h3>
-<h2> 📍 things i do .. </h3>
-<p>* I am a Network Security Researcher at Dalhouise University, Full Stack Web Developer and IoT Developer.</p>
-<p>* Technologies : MAchine Learning, Data Science, Computer Vision, Web Development and Internet of Things. </p>
-<p>* Programming Languages : Python, C++ and JavaScript. </p>
-<p>* Current Research : Generalizing Anxiety through Machine Learning models & DRL for neurofeedback for anxiety reduction. </p>
-<p>* Writing a weekly newsletter called Meraki's Newsletter https://merakilabs.substack.com/ . </p>
-<p>* Write blogs on Medium https://haarsh01.medium.com/ related to Machine Learning and Artificial Intelligence. </p>
-<p>* Part time User Interface Designer. </p>
-<p>* Reach Me : See social links below or drop email at harshkaushik717@gmail.com . </p>
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Harsh Kaushik
 
+<h3 align="center">
+<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"/>
+</h3>
 
+## 🧑🏻‍💻 About Me
 
- ### Languages and Tools
+I am a **Master’s student in Computer Science at Dalhousie University** specializing in **Network Security, Machine Learning, and AI Systems**.  
 
-  <span><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></span> &nbsp;
-  <span><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></span> &nbsp;
-  <span><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-64/react-3521666-2945110.png"></span> &nbsp;
-  <span><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-64/firebase-3521427-2944871.png"></span> &nbsp;
-  <span><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-3628663-3029888.png"></span> &nbsp;
+My work focuses on building **research-driven AI systems that can be deployed as real-world products**.
 
-  <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-64/python-3521655-2945099.png"> &nbsp;
-  <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png"> &nbsp;
-  <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png"> &nbsp;
-   ### Designing Skills
-  
-  
-  <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-64/adobe-adobe-xd-2522531-2132719.png"> &nbsp;
-  <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-64/adobe-illustrator-2522532-2132720.png"> &nbsp;
-  <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-64/figma-3628771-3030133.png"> &nbsp;
-  
-   
+Currently I am working on projects involving:
+
+- **AI vs Human Content Detection** (text + images)
+- **Machine Learning pipelines for synthetic data detection**
+- **Computer Vision & NLP model evaluation**
+- **Secure and scalable AI systems**
+
+I enjoy combining **research, engineering, and product thinking** to build practical AI solutions.
+
+---
+
+## 🚀 Current Work
+
+### 🔬 AI vs Human Detection Platform
+A research-driven system to detect whether **text or images are AI-generated or human-created**.
+
+Key components include:
+
+- Synthetic dataset generation pipelines
+- Multi-model evaluation framework
+- Text embeddings + ML classifiers
+- Image-based detection models
+- Statistical analysis of generative model behavior
+- Product-ready inference pipeline
+
+The goal is to create a **transparent AI detection platform that explains *why* a piece of content is flagged**.
+
+---
+
+## 🧠 Research Interests
+
+- Network Security
+- AI Content Detection
+- Machine Learning Systems
+- Computer Vision
+- Natural Language Processing
+- Synthetic Data Analysis
+
+---
+
+## 💻 Technologies I Work With
+
+### Programming
+- Python
+- Java
+- C / C++
+- JavaScript
+- Swift (learning)
+
+### Machine Learning & Data
+- PyTorch
+- Scikit-learn
+- Transformers (HuggingFace)
+- XGBoost
+- Pandas / NumPy
+
+### Web & Product Development
+- React
+- Node.js
+- REST APIs
+- UI/UX Design
+
+### Tools
+- Git / GitHub
+- Docker
+- Linux
+- tmux
+- Jupyter
+
+---
+
+## 🎨 Design Skills
+
+- Figma
+- Adobe XD
+- Illustrator
+- Product Wireframing
+- UI/UX Prototyping
+
+---
+
+## 📚 Other Things I Do
+
+- Book reviewer & **Bookstagram creator**
+- Organize **reading meetups and reading communities**
+- Interested in **building social platforms for readers**
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=haarsh01&show_icons=true&theme=radical&count_private=true">
 </p>
-<h2>⚡ Connect with me </h2>
+
+---
+
+## ⚡ Connect With Me
+
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/haarsh01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://twitter.com/haarsh01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://medium.com/@haarsh01"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/haarsh01/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/haarsh01">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@haarsh01">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
 </p>
 
+---
 
+📫 **Reach me:**  
+harshkaushik717@gmail.com
