@@ -10,24 +10,6 @@ I am a **Master’s student in Computer Science at Dalhousie University** specia
 
 My work focuses on building **research-driven AI systems that can be deployed as real-world products**.
 
-Currently I am working on projects involving:
-
-- **AI vs Human Content Detection** (text + images)
-- **Machine Learning pipelines for synthetic data detection**
-- **Computer Vision & NLP model evaluation**
-- **Secure and scalable AI systems**
-
-I enjoy combining **research, engineering, and product thinking** to build practical AI solutions.
-
----
-
-## 🚀 Current Work
-
-### 🔬 AI vs Human Detection Platform
-A research-driven system to detect whether **text or images are AI-generated or human-created**.
-
-
-
 ---
 
 ## 🧠 Research Interests
