@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I enjoy working on AI and software projects, experimenting with new ideas, and finding practical ways to turn research into useful applications.
+  I like taking ideas beyond the research stage and seeing how they work in real applications.
 </p>
 
 ---
@@ -24,7 +24,7 @@
 
 - 📚 Beyond technology, I enjoy **reading physical books, writing poetry, running, and photographing sunsets**.
 
-- ⚡ Fun fact: My best debugging ideas often arrive during a long run or while drinking chai—not while staring at the code.
+- ⚡ Fun fact: My best debugging ideas often arrive during a long run or while drinking coffee, not while staring at the code.
 
 ---
 
