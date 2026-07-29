@@ -1,11 +1,11 @@
-<h1 align="center">Hey, I'm Harsh Kaushik 👋</h1>
+<h1 align="center">Hey, I'm Harsh👋</h1>
 
 <p align="center">
-  <b>Applied AI Researcher · Software Developer · Curious Problem Solver</b>
+  <b>AI Researcher and Software Developer</b>
 </p>
 
 <p align="center">
-  I enjoy working where research meets engineering—exploring complex ideas, testing them carefully, and turning the useful ones into practical systems.
+  I enjoy working on AI and software projects, experimenting with new ideas, and finding practical ways to turn research into useful applications.
 </p>
 
 ---
