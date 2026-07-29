@@ -1,104 +1,72 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Harsh Kaushik
-
-<h3 align="center">
-<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"/>
-</h3>
-
-## 🧑🏻‍💻 About Me
-
-I am a **Master’s student in Computer Science at Dalhousie University** specializing in **Network Security, Machine Learning, and AI Systems**.  
-
-My work focuses on building **research-driven AI systems that can be deployed as real-world products**.
-
----
-
-## 🧠 Research Interests
-
-- Network Security
-- AI Content Detection
-- Machine Learning Systems
-- Computer Vision
-- Natural Language Processing
-- Synthetic Data Analysis
-
----
-
-## 💻 Technologies I Work With
-
-### Programming
-- Python
-- Java
-- C / C++
-- JavaScript
-- Swift (learning)
-
-### Machine Learning & Data
-- PyTorch
-- Scikit-learn
-- Transformers (HuggingFace)
-- XGBoost
-- Pandas / NumPy
-
-### Web & Product Development
-- React
-- Node.js
-- REST APIs
-- UI/UX Design
-
-### Tools
-- Git / GitHub
-- Docker
-- Linux
-- tmux
-- Jupyter
-
----
-
-## 🎨 Design Skills
-
-- Figma
-- Adobe XD
-- Illustrator
-- Product Wireframing
-- UI/UX Prototyping
-
----
-
-## 📚 Other Things I Do
-
-- Book reviewer & **Bookstagram creator**
-- Organize **reading meetups and reading communities**
-- Interested in **building social platforms for readers**
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hey, I'm Harsh Kaushik 👋</h1>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=haarsh01&show_icons=true&theme=radical&count_private=true">
+  <b>Applied AI Researcher · Software Developer · Curious Problem Solver</b>
+</p>
+
+<p align="center">
+  I enjoy working where research meets engineering—exploring complex ideas, testing them carefully, and turning the useful ones into practical systems.
 </p>
 
 ---
 
-## ⚡ Connect With Me
+### A little about me
 
-<p align="center">
+- 🎓 I recently completed my **Master of Computer Science at Dalhousie University**.
 
-<a href="https://www.linkedin.com/in/haarsh01/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+- 🔬 My graduate research focused on using **semantic and forensic evidence to identify AI-generated and manipulated visual content**.
 
-<a href="https://twitter.com/haarsh01">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
+- 🚀 I’m currently interested in building **reliable, explainable, and product-ready AI systems**.
 
-<a href="https://medium.com/@haarsh01">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
+- 💡 I especially enjoy working with **computer vision, machine learning pipelines, backend development, model evaluation, and trustworthy AI**.
 
+- 🔐 Before my master’s research, I explored **machine learning for intrusion detection in IoT and network environments**.
+
+- 📚 Beyond technology, I enjoy **reading physical books, writing poetry, running, and photographing sunsets**.
+
+- ⚡ Fun fact: My best debugging ideas often arrive during a long run or while drinking chai—not while staring at the code.
+
+---
+
+### My technology toolkit
+
+#### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c" alt="Programming languages"/>
+</p>
+
+#### AI, backend and development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,fastapi,react,nodejs,docker" alt="AI and development tools"/>
+</p>
+
+#### Tools and platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,mysql,figma,vscode" alt="Tools and platforms"/>
 </p>
 
 ---
 
-📫 **Reach me:**  
-harshkaushik717@gmail.com
+### Things I’m interested in
+
+`Applied AI` · `Computer Vision` · `AI Content Detection` · `Explainable AI`  
+`Machine Learning Systems` · `Network Security` · `Research-to-Product Development`
+
+---
+
+### Let's connect
+
+<p>
+  <a href="https://www.linkedin.com/in/haarsh01/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@haarsh01">
+    <img src="https://img.shields.io/badge/Medium-Read_my_writing-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="mailto:harshkaushik717@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
