@@ -22,7 +22,7 @@
 
 - 🔐 Before my master’s research, I explored **machine learning for intrusion detection in IoT and network environments**.
 
-- 📚 Beyond technology, I enjoy **reading physical books, writing poetry, running, and photographing sunsets**.
+- 📚 Beyond technology, I enjoy **reading books, writing poetry, running, and photography**.
 
 - ⚡ Fun fact: My best debugging ideas often arrive during a long run or while drinking coffee, not while staring at the code.
 
